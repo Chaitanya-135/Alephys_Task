@@ -1,0 +1,5 @@
+Type,Category,Amount,Date
+Income,Salary,18000,2025-05-01
+Expense,Rent,8000,2025-05-02
+Expense,Food,5000,2025-05-03
+Expense,Travel,2000,2025-05-10
